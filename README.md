@@ -5,4 +5,9 @@ Demo using Python and NASA data to search for meteorites
 
 This project requires Python 3 and the requests package.
 
-'ipython3 find_meteors.py'
+First, install pipenv. Then:
+
+```
+pipenv install
+pipenv run "ipython3 find_meteors.py"
+```
